@@ -1,4 +1,4 @@
-# Quadcopter_Control AI Engine for Gomoku Game
+# AI Engine for Gomoku Game
 Simple AI engine for Gomoku game in Python. Project at University of Toronto.
 
 ## Game Description
